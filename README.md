@@ -33,3 +33,4 @@ month = {July},
 year = {2017}
 }
 ```
+note in 2018.12.17: this branch of codes should be used under pytorch 0.3.0, and both of them are the only version that are fitted to the current version of lightnet
